@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysTest", "ArraysTest\ArraysTest.csproj", "{DDDC8C0E-6D29-4540-8285-3A68CE0507C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens", "Siemens\Siemens.csproj", "{8B2FA34E-E70D-4ED5-A46C-D7E404DACF42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DDDC8C0E-6D29-4540-8285-3A68CE0507C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDDC8C0E-6D29-4540-8285-3A68CE0507C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDDC8C0E-6D29-4540-8285-3A68CE0507C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2FA34E-E70D-4ED5-A46C-D7E404DACF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2FA34E-E70D-4ED5-A46C-D7E404DACF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2FA34E-E70D-4ED5-A46C-D7E404DACF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2FA34E-E70D-4ED5-A46C-D7E404DACF42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
